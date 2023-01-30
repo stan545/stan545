@@ -33,4 +33,15 @@ I am an aspiring Full Stack Developer
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stan545&theme=vision-friendly-dark&background=000000&border=FDFFFE)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stan545&layout=compact&theme=vision-friendly-dark&background=000000&border=FDFFFE)](https://github.com/stan545/github-readme-stats)
+i[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stan545&layout=compact&theme=vision-friendly-dark&background=000000&border=FDFFFE)](https://github.com/stan545/github-readme-stats)
+
+
+
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/stan545/count.svg" />
+</p>
