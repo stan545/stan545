@@ -33,7 +33,7 @@ I am an aspiring Full Stack Developer
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stan545&theme=vision-friendly-dark&background=000000&border=FDFFFE)](https://git.io/streak-stats)
 
-i[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stan545&layout=compact&theme=vision-friendly-dark&background=000000&border=FDFFFE)](https://github.com/stan545/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stan545&layout=compact&theme=vision-friendly-dark&background=000000&border=FDFFFE)](https://github.com/stan545/github-readme-stats)
 
 
 
