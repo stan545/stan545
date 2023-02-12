@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me:
 I am an aspiring Full Stack Developer
 
-- 🔭 I’m currently working on an ***Getting better in programming***
+- 🔭 I’m currently working on ***Getting better in programming***
 - 🌱 I’m currently learning ***C language***
 - 📫 You can reach me at kanuchigozie7@gmail.com
 
