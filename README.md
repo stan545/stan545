@@ -15,10 +15,11 @@
 
 ### 👨‍💻 About Me:
 I am an aspiring Full Stack Developer
-
 - 🔭 I’m currently working on ***Getting better in programming***
+- 📝 I've knowledge of Bash
 - 🌱 I’m currently learning ***C language***
-- 📫 You can reach me at kanuchigozie7@gmail.com
+- 📫 You can reach me at kanuchigozie7@gmail.com.
+- 💡 Once you stop learning you start dying
 
 ---
 ### 📱 Connect with me:
