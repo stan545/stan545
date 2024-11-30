@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%"/>
 </div>
 
-<h1 align="center">Hello there👋, I'm Henry</h1>
+<h1 align="center">Hello Pal👋, I'm Henry</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
@@ -16,8 +16,8 @@
 ### 👨‍💻 About Me:
 I am an aspiring Full Stack Developer
 - 🔭 I’m currently working on ***Getting better in programming***
-- 📝 I've knowledge of Bash
-- 🌱 I’m currently learning ***C language***
+- 📝 I've knowledge of Bash,C,Java,Python,JavaScript
+- 🌱 I’m currently learning ***React Native***
 - 📫 You can reach me at kanuchigozie7@gmail.com.
 - 💡 Once you stop learning you start dying
 
