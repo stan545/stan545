@@ -3,6 +3,12 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="stan545's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="center">Hello Pal👋, I'm Henry</h1>
 
 <div id="header" align="center">
